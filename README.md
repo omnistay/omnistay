@@ -1,4 +1,14 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html>
+<head>
+  <title>OmniStay</title>
+</head>
+<body>
+  <h1>Welcome to OmniStay</h1>
+  <p>Book hotels easily without sign-up.</p>
+</body>
+</html>
+
 
 <!--
 **omnistay/omnistay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
